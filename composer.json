@@ -1,0 +1,11 @@
+{
+    "name": "vendor/web-police2016",
+    "description": "Description of project web-police2016.",
+    "authors": [
+        {
+            "name": "orpor",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {}
+}
